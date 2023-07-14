@@ -1,5 +1,8 @@
+Project Title
+  "Enhancing Relevance and Ridership of Public Transportation in the United States: An Exploratory Data Analysis"
+
 Topic
-  Enhancing Relevance and Usage of Public Transportation in the United States: Strategies for Improving Accessibility, Efficiency, and Ridership
+  Public Transportation Enhancement
 
 Question
   1.	How does public transportation ridership vary across different cities in the United States?
