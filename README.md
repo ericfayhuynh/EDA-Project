@@ -1,6 +1,6 @@
 Project Title
 
-"Enhancing Relevance and Ridership of Public Transportation in the United States: An Exploratory Data Analysis"
+Enhancing Relevance and Ridership of Public Transportation in the United States: An Exploratory Data Analysis
 
 
 Topic
@@ -38,6 +38,6 @@ Project Description
   The project will involve data collection, cleaning, and analysis using various datasets related to public transportation. These datasets may include information on ridership, service levels, routes, demographics, infrastructure, and other relevant factors. Data visualization techniques will be employed to effectively communicate insights and patterns derived from the analysis.
 
 
-Team Members
+Team Members (Group 12)
 
   1.	Eric Huynh
