@@ -9,16 +9,15 @@ Topic
 
 
 Question
+1.  How does the population density of a state correlate with the percentage of people who use public transportation? Is there a higher percentage of public transportation users in more densely populated states?
 
-  1.	How does public transportation ridership vary across different cities in the United States?
+2.  Does the availability of registered vehicles in a state have a negative correlation with public transportation ridership? In other words, do states with more registered vehicles have lower percentages of public transportation users?
 
-  3.	What are the peak hours or days for public transportation usage?
-     
-  5.	How does public transportation availability and accessibility correlate with population density or demographic factors?
-     
-  7.	What are the most common modes of transportation used for daily commuting in different cities?
-     
-  9.	Are there any noticeable seasonal fluctuations in public transportation ridership?
+3.  Is there a positive correlation between the percentage of individuals with access to cars and the percentage of people using public transportation? Do states with higher car access also have higher public transportation ridership due to the complementarity between the two modes of transportation?
+
+4.  How does the level of education in a state (measured by the percentage of individuals with at least a bachelor's degree) correlate with public transportation ridership? Is there a stronger preference for public transportation in states with higher education levels?
+
+5.  Does the unemployment rate in a state have any significant correlation with the percentage of people using public transportation? Are individuals more likely to rely on public transportation during periods of higher unemployment?
 
    
 Dataset
@@ -29,7 +28,18 @@ Dataset
   
   •	Census Transportation Planning Products (CTPP)
   
-  •	And more….
+  •	Census.gov
+    Link: https://www.census.gov/data/developers/data-sets/popest-popproj/popest.html
+    Link: https://data.census.gov/table?tid=ACSST5Y2020.S1501&g=010XX00US$0400000
+
+  •	2023 World Population Review
+    Link: https://worldpopulationreview.com/state-rankings/gdp-by-state
+
+  •	Iowa Community Indicators Program, 175 Heady Hall
+    Link: https://www.icip.iastate.edu/tables/employment/unemployment-states
+
+  •	2023 World Population Review
+    Link: https://worldpopulationreview.com/state-rankings/educational-attainment-by-state
 
 
 Project Description
