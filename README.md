@@ -29,17 +29,10 @@ Dataset
   •	Census Transportation Planning Products (CTPP)
   
   •	Census.gov
-    Link: https://www.census.gov/data/developers/data-sets/popest-popproj/popest.html
-    Link: https://data.census.gov/table?tid=ACSST5Y2020.S1501&g=010XX00US$0400000
 
   •	2023 World Population Review
-    Link: https://worldpopulationreview.com/state-rankings/gdp-by-state
 
   •	Iowa Community Indicators Program, 175 Heady Hall
-    Link: https://www.icip.iastate.edu/tables/employment/unemployment-states
-
-  •	2023 World Population Review
-    Link: https://worldpopulationreview.com/state-rankings/educational-attainment-by-state
 
 
 Project Description
