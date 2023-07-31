@@ -1,0 +1,12 @@
+The population density of a state has a positive correlation with the percentage of people who use public transportation. There is a higher percentage of public transportation users in more densely populated cities.
+
+The number of registered vehicles in a state does not show a strong correlation, but there is a slight negative correlation. We cannot firmly establish a correlation between more registered vehicles and lower percentages of public transportation users.
+
+There is a positive correlation between the percentage of individuals with access to cars and the percentage of people using public transportation. States with higher car access also have higher public transportation usage.
+
+States with a higher percentage of people with a bachelor's degree or higher show a positive correlation with public transportation ridership. There is a stronger preference for public transportation in states with higher education levels.
+
+The unemployment rate does not have a strong correlation, but there is a slight positive correlation with the percentage of people using public transportation. There is a higher percentage of public transportation usage in states with higher unemployment rates.
+
+
+Overall, out of the 8 variables investigated in this exploratory data analytical project, I was able to find out 5 variables that have a significant correlation value with greater than .5 or less than -.5. They were density, % of people with bacelor's or higher, no access to cars, gross domestic per capita, and cars per houshold. Where cars per household was the only one that had a significant negative correlation and the rest were a significant positive correlation.
