@@ -18,7 +18,7 @@ Social Science
 1.  Does the unemployment rate in a state have any significant correlation with the percentage of people using public transportation? Are individuals more likely to rely on public transportation during periods of higher unemployment?
 
    
-### Dataset
+### Sources/Data
 
 * National Transit Database (NTD)
 *	Bureau of Transportation Statistics (BTS)
