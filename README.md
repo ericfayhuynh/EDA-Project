@@ -1,4 +1,4 @@
-## Enhancing Relevance and Ridership of Public Transportation in the United States
+## Exploratory Data Analysis Project - United States Public Transportation Usage
 
 
 ### Topic
