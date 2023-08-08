@@ -34,6 +34,5 @@ Social Science
   The project will involve data collection, cleaning, and analysis using various datasets related to public transportation. These datasets may include information on ridership, service levels, routes, demographics, infrastructure, and other relevant factors. Data visualization techniques will be employed to effectively communicate insights and patterns derived from the analysis.
 
 
-### Team Members (Group 12)
-
+### Team Members <--Group 12-->
 1. Eric Huynh
