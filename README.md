@@ -11,28 +11,23 @@ Topic
 Question
 1.  How does the population density of a state correlate with the percentage of people who use public transportation? Is there a higher percentage of public transportation users in more densely populated states?
 
-2.  Does the availability of registered vehicles in a state have a negative correlation with public transportation ridership? In other words, do states with more registered vehicles have lower percentages of public transportation users?
+1.  Does the availability of registered vehicles in a state have a negative correlation with public transportation ridership? In other words, do states with more registered vehicles have lower percentages of public transportation users?
 
-3.  Is there a positive correlation between the percentage of individuals with access to cars and the percentage of people using public transportation? Do states with higher car access also have higher public transportation ridership due to the complementarity between the two modes of transportation?
+1.  Is there a positive correlation between the percentage of individuals with access to cars and the percentage of people using public transportation? Do states with higher car access also have higher public transportation ridership due to the complementarity between the two modes of transportation?
 
-4.  How does the level of education in a state (measured by the percentage of individuals with at least a bachelor's degree) correlate with public transportation ridership? Is there a stronger preference for public transportation in states with higher education levels?
+1.  How does the level of education in a state (measured by the percentage of individuals with at least a bachelor's degree) correlate with public transportation ridership? Is there a stronger preference for public transportation in states with higher education levels?
 
-5.  Does the unemployment rate in a state have any significant correlation with the percentage of people using public transportation? Are individuals more likely to rely on public transportation during periods of higher unemployment?
+1.  Does the unemployment rate in a state have any significant correlation with the percentage of people using public transportation? Are individuals more likely to rely on public transportation during periods of higher unemployment?
 
    
 Dataset
 
-  •	National Transit Database (NTD)
-  
-  •	Bureau of Transportation Statistics (BTS)
-  
-  •	Census Transportation Planning Products (CTPP)
-  
-  •	Census.gov
-
-  •	2023 World Population Review
-
-  •	Iowa Community Indicators Program, 175 Heady Hall
+* National Transit Database (NTD)
+*	Bureau of Transportation Statistics (BTS)
+*	Census Transportation Planning Products (CTPP)
+*	Census.gov
+*	2023 World Population Review
+*	Iowa Community Indicators Program, 175 Heady Hall
 
 
 Project Description
@@ -43,4 +38,4 @@ Project Description
 
 Team Members (Group 12)
 
-  1.	Eric Huynh
+  2.	Eric Huynh
