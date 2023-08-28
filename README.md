@@ -1,9 +1,23 @@
 # United States Public Transportation Usage - Exploratory Data Analysis Project
 
-### Project Description
+### Objective
 
-  The goal of this project is to explore ways to enhance the relevance and usage of public transportation in the United States. The project will involve conducting an in-depth analysis of existing public transportation systems, identifying potential challenges, and proposing strategies to address them. The focus will be on improving accessibility, efficiency, and ridership to make public transportation a more attractive and viable option for commuters and the general public.
-  The project will involve data collection, cleaning, and analysis using various datasets related to public transportation. These datasets may include information on ridership, service levels, routes, demographics, infrastructure, and other relevant factors. Data visualization techniques will be employed to effectively communicate insights and patterns derived from the analysis.
+The aim of my project is to improve the relevance and usage of public transportation systems in the United States. By analyzing various factors like ridership, service levels, and demographics, I aim to uncover challenges and propose solutions for enhancing public transportation.
+
+### Summary
+In this project, I engaged in data collection, cleaning, and analysis to answer specific research questions. For instance, I looked at how population density correlates with public transportation usage and whether having more registered vehicles in a state impacts public transportation negatively. I utilized Python libraries like Pandas for data manipulation, Matplotlib and Seaborn for data visualization, and Numpy and Scipy for numerical and statistical operations. I also integrated data from multiple sources, including APIs and various CSV files. These technical skills were crucial in deriving meaningful insights and patterns that could guide public transportation strategies.
+
+### Tools/Libraries
+- Excel
+- Python
+- Pandas
+- Matplotlib
+- API
+- Numpy
+- Seaborn
+- scipy
+
+
 
 
 ### Research Questions
