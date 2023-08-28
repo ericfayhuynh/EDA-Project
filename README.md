@@ -20,7 +20,6 @@
    
 ### Data Sources
 
-|Data Source|
 |Variable|File|Source|
 |---|---|---|
 |Uses Public Transportation|pub.csv|Census.gov|
