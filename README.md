@@ -20,9 +20,12 @@
    
 ### Data Sources
 
-*  National Transit Database (NTD)
-*	Bureau of Transportation Statistics (BTS)
-*	Census Transportation Planning Products (CTPP)
-*	Census.gov
-*	2023 World Population Review
-*	Iowa Community Indicators Program, 175 Heady Hall
+|Data Source|
+|Independent Variable|Source|
+|---|---|
+|dd|National Transit Database (NTD)|
+|dd|Bureau of Transportation Statistics (BTS)|
+|dd|Census Transportation Planning Products (CTPP)|
+|dd|Census.gov|
+|dd|2023 World Population Review|
+|dd|Iowa Community Indicators Program, 175 Heady Hall|
