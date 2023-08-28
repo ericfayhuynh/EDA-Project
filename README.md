@@ -16,6 +16,7 @@ In this EDA project, I put my technical skills to the test by gathering data fro
 - Numpy
 - Seaborn
 - scipy
+- Jupyter Notebook
 
 
 
