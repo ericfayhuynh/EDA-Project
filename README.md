@@ -21,11 +21,15 @@
 ### Data Sources
 
 |Data Source|
-|Independent Variable|Source|
-|---|---|
-|dd|National Transit Database (NTD)|
-|dd|Bureau of Transportation Statistics (BTS)|
-|dd|Census Transportation Planning Products (CTPP)|
-|dd|Census.gov|
-|dd|2023 World Population Review|
-|dd|Iowa Community Indicators Program, 175 Heady Hall|
+|Variable|File|Source|
+|---|---|---|
+|Uses Public Transportation|pub.csv|Census.gov|
+|Population Estimate|_API Call_|Census.gov|
+|Population Density|_API Call_|Census.gov|
+|Cars per Household|carmod.csv|National Equity Atlas|
+|Registered Vehicles|carmod.csv|National Equity Atlas|
+|No Access to Cars|carmod.csv|National Equity Atlas|
+|Gross Domestic Production|gdpmod.csv|2023 World Population Review|
+|Highschool Education|edu1.csv|2023 World Population Review|
+|Bachelors Education|edu1.csv|2023 World Population Review|
+|Unemployment Rate|unemmod.csv|Iowa Community Indicators Program, 175 Heady Hall|
