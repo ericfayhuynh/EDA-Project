@@ -2,10 +2,10 @@
 
 ### Objective
 
-The aim of my project is to improve the relevance and usage of public transportation systems in the United States. By analyzing various factors like ridership, service levels, and demographics, I aim to uncover challenges and propose solutions for enhancing public transportation.
+My primary objective is to kickstart an exploratory data analysis (EDA) project focused on enhancing the U.S. public transportation systems. The EDA isn't about drawing conclusions but rather igniting exploratory thinking around an idea I'm interested in—improving public transportation. By investigating different variables, I aim to find correlations that could guide deeper research and problem-solving in the future.
 
 ### Summary
-In this project, I engaged in data collection, cleaning, and analysis to answer specific research questions. For instance, I looked at how population density correlates with public transportation usage and whether having more registered vehicles in a state impacts public transportation negatively. I utilized Python libraries like Pandas for data manipulation, Matplotlib and Seaborn for data visualization, and Numpy and Scipy for numerical and statistical operations. I also integrated data from multiple sources, including APIs and various CSV files. These technical skills were crucial in deriving meaningful insights and patterns that could guide public transportation strategies.
+In this EDA project, I put my technical skills to the test by gathering data from multiple sources like APIs, CSV files, and other databases. I used Python along with its powerful libraries like Pandas for data cleaning and manipulation, Matplotlib and Seaborn for data visualization, and Numpy and Scipy for statistical analysis. The key focus was to identify correlations between variables like population density, vehicle ownership, and education levels, among others. Although I didn't draw any definitive conclusions, the skills I employed were instrumental in setting the stage for more in-depth analysis and decision-making related to public transportation.
 
 ### Tools/Libraries
 - Excel
